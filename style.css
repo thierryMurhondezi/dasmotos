@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    padding: 5px;
+    background-image:url("sous_dossier/pattern.webp") ;
+    text-align: center;
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+div{
+    line-height: 1;
+}
+
+span{
+    font-weight: bold;
+    color:blue;
+}
+
+
+.green{
+    background-color: mediumspringgreen;
+    color: white;
+    font-size:32px;
+    font-weight:bold;
+
+}
+
+.red{
+    background-color: lightcoral;
+    color: white;
+    font-size:32px;
+    font-weight:bold;
+
+}
+
+.blue{
+    background-color:skyblue;
+    color: white;
+    font-size:32px;
+    font-weight:bold;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
